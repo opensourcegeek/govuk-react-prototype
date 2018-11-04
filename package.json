@@ -1,10 +1,16 @@
 {
-  "name": "mmo-ecc-fe-proto-es6",
+  "name": "fe-proto-es6",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ajv": "^6.5.4",
+    "emotion": "^9.2.12",
+    "govuk-react": "^0.2.12",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
+    "react-emotion": "^9.2.12",
+    "react-markdown": "^4.0.3",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "2.0.5"
   },
   "scripts": {
